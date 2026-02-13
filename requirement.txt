@@ -1,0 +1,10 @@
+flask
+speechRecognition
+PyAudio
+mtranslate
+edge_tts
+sounddevice
+soundfile
+ollama
+selenium 
+webdriver-manager
